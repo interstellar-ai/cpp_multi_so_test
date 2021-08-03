@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Tutorial",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lib_a::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lib_a-Debug-4cab0e01f4d7ea058d8d.json",
+					"name" : "lib_a",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lib_b::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lib_b-Debug-785a5a9817e433f3dbe0.json",
+					"name" : "lib_b",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lib_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lib_c-Debug-a6c8847e0a713ede60d3.json",
+					"name" : "lib_c",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/kobe/code/cpp_multi_so/test_multi_so/build",
+		"source" : "/home/kobe/code/cpp_multi_so/test_multi_so"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

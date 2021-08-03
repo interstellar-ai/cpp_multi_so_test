@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-g++-9 -fPIC -g  -shared -Wl,-soname,liblib_c.so -o liblib_c.so CMakeFiles/lib_c.dir/src/c.cpp.o  -Wl,-rpath,/home/kobe/code/cpp_multi_so/test_multi_so/build:/home/kobe/code/cpp_multi_so/test_multi_so/lib liblib_b.so liblib_a.so ../lib/libdependent1.so ../lib/libdependent2.so 

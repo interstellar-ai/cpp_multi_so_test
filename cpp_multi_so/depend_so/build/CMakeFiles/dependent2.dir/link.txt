@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libdependent2.so -o libdependent2.so CMakeFiles/dependent2.dir/src/depend2.cpp.o 

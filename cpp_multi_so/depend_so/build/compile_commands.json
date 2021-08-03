@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/kobe/code/cpp_multi_so/depend_so/build",
+  "command": "/usr/bin/c++  -Ddependent2_EXPORTS  -fPIC   -o CMakeFiles/dependent2.dir/src/depend2.cpp.o -c /home/kobe/code/cpp_multi_so/depend_so/src/depend2.cpp",
+  "file": "/home/kobe/code/cpp_multi_so/depend_so/src/depend2.cpp"
+},
+{
+  "directory": "/home/kobe/code/cpp_multi_so/depend_so/build",
+  "command": "/usr/bin/c++  -Ddependent1_EXPORTS  -fPIC   -o CMakeFiles/dependent1.dir/src/depend1.cpp.o -c /home/kobe/code/cpp_multi_so/depend_so/src/depend1.cpp",
+  "file": "/home/kobe/code/cpp_multi_so/depend_so/src/depend1.cpp"
+}
+]

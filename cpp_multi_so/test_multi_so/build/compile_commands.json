@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/kobe/code/cpp_multi_so/test_multi_so/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -Dlib_c_EXPORTS  -g -fPIC   -o CMakeFiles/lib_c.dir/src/c.cpp.o -c /home/kobe/code/cpp_multi_so/test_multi_so/src/c.cpp",
+  "file": "/home/kobe/code/cpp_multi_so/test_multi_so/src/c.cpp"
+},
+{
+  "directory": "/home/kobe/code/cpp_multi_so/test_multi_so/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -Dlib_b_EXPORTS  -g -fPIC   -o CMakeFiles/lib_b.dir/src/b.cpp.o -c /home/kobe/code/cpp_multi_so/test_multi_so/src/b.cpp",
+  "file": "/home/kobe/code/cpp_multi_so/test_multi_so/src/b.cpp"
+},
+{
+  "directory": "/home/kobe/code/cpp_multi_so/test_multi_so/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -Dlib_a_EXPORTS  -g -fPIC   -o CMakeFiles/lib_a.dir/src/a.cpp.o -c /home/kobe/code/cpp_multi_so/test_multi_so/src/a.cpp",
+  "file": "/home/kobe/code/cpp_multi_so/test_multi_so/src/a.cpp"
+}
+]
